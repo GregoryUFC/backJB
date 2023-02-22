@@ -1,0 +1,12 @@
+[28-May-2022 22:33:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::executeexecute() in /home/gslottoa/public_html/api/commissions/list_commissions.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/commissions/list_commissions.php on line 20
+[28-May-2022 22:33:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::executeexecute() in /home/gslottoa/public_html/api/commissions/list_commissions.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/commissions/list_commissions.php on line 21
+[28-May-2022 22:34:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::executeexecute() in /home/gslottoa/public_html/api/commissions/list_commissions.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/commissions/list_commissions.php on line 21

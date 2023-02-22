@@ -1,0 +1,120 @@
+[14-May-2022 14:52:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_fact() in /home/gslottoa/public_html/api/results/new_result.php:245
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/new_result.php on line 245
+[14-May-2022 14:57:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gmp_fact() in /home/gslottoa/public_html/api/results/new_result.php:245
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/new_result.php on line 245
+[20-May-2022 19:11:55 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gslottoa/public_html/api/results/list_results.php on line 45
+[20-May-2022 19:11:55 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gslottoa/public_html/api/results/list_results.php on line 45
+[20-May-2022 19:11:55 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gslottoa/public_html/api/results/list_results.php on line 45
+[20-May-2022 19:11:55 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gslottoa/public_html/api/results/list_results.php on line 45
+[20-May-2022 19:11:55 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gslottoa/public_html/api/results/list_results.php on line 45
+[20-May-2022 19:11:55 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gslottoa/public_html/api/results/list_results.php on line 45
+[20-May-2022 19:11:55 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gslottoa/public_html/api/results/list_results.php on line 45
+[20-May-2022 19:11:55 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gslottoa/public_html/api/results/list_results.php on line 45
+[20-May-2022 19:11:55 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gslottoa/public_html/api/results/list_results.php on line 45
+[20-May-2022 19:38:57 UTC] PHP Warning:  Illegal string offset 'extraction_id' in /home/gslottoa/public_html/api/results/list_results.php on line 17
+[20-May-2022 19:38:57 UTC] PHP Warning:  Illegal string offset 'extraction_id' in /home/gslottoa/public_html/api/results/list_results.php on line 17
+[20-May-2022 19:38:57 UTC] PHP Warning:  Illegal string offset 'extraction_id' in /home/gslottoa/public_html/api/results/list_results.php on line 17
+[20-May-2022 19:38:57 UTC] PHP Warning:  Illegal string offset 'extraction_id' in /home/gslottoa/public_html/api/results/list_results.php on line 17
+[20-May-2022 19:38:57 UTC] PHP Warning:  Illegal string offset 'extraction_id' in /home/gslottoa/public_html/api/results/list_results.php on line 17
+[20-May-2022 19:38:57 UTC] PHP Warning:  Illegal string offset 'extraction_id' in /home/gslottoa/public_html/api/results/list_results.php on line 17
+[20-May-2022 21:20:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[20-May-2022 21:20:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 03:41:49 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/gslottoa/public_html/api/results/list_results.php on line 61
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 06:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gslottoa/public_html/api/results/new_result.php on line 70
+[21-May-2022 14:57:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/gslottoa/public_html/api/results/new_result.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/new_result.php on line 145
+[29-Jul-2022 19:35:26 UTC] PHP Warning:  A non-numeric value encountered in /home/gslottoa/public_html/api/results/list_results.php on line 33
+[29-Jul-2022 19:35:26 UTC] PHP Warning:  A non-numeric value encountered in /home/gslottoa/public_html/api/results/list_results.php on line 33
+[05-Aug-2022 00:57:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11
+[05-Aug-2022 01:10:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:9
+Stack trace:
+#0 /home/gslottoa/public_html/api/results/list_results.php(45): getUserId('NWM5MWFjOTEtOWI...', NULL)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 9
+[03-Sep-2022 13:49:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:9
+Stack trace:
+#0 /home/gslottoa/public_html/api/results/list_results.php(45): getUserId('NDEzN2VjMWItMmM...', NULL)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 9
+[03-Sep-2022 13:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11
+[03-Sep-2022 13:56:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11
+[11-Nov-2022 16:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11
+[11-Nov-2022 16:39:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11
+[11-Nov-2022 16:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11
+[11-Nov-2022 16:44:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11
+[23-Nov-2022 13:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11
+[23-Nov-2022 13:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11
+[23-Nov-2022 14:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11
+[23-Nov-2022 14:02:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11
+[23-Nov-2022 14:02:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11
+[05-Dec-2022 12:24:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11
+[17-Dec-2022 15:37:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/results/list_extraction.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/results/list_extraction.php on line 11

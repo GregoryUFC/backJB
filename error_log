@@ -1,0 +1,209 @@
+﻿[28-May-2022 02:10:24 UTC] PHP Warning:  include_once(../models/headers.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 2
+[28-May-2022 02:10:24 UTC] PHP Warning:  include_once(): Failed opening '../models/headers.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 2
+[28-May-2022 02:10:24 UTC] PHP Warning:  include_once(../models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 3
+[28-May-2022 02:10:24 UTC] PHP Warning:  include_once(): Failed opening '../models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 3
+[28-May-2022 02:11:13 UTC] PHP Warning:  include_once(../models/headers.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 2
+[28-May-2022 02:11:13 UTC] PHP Warning:  include_once(): Failed opening '../models/headers.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 2
+[28-May-2022 03:37:06 UTC] PHP Warning:  include_once(../models/headers.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 2
+[28-May-2022 03:37:06 UTC] PHP Warning:  include_once(): Failed opening '../models/headers.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 2
+[28-May-2022 03:37:06 UTC] PHP Warning:  include_once(../models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 3
+[28-May-2022 03:37:06 UTC] PHP Warning:  include_once(): Failed opening '../models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 3
+[28-May-2022 03:37:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/teste.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 14
+[28-May-2022 14:46:04 UTC] PHP Fatal error:  Uncaught Exception: Token não valido in /home/gslottoa/public_html/api/teste.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 12
+[28-May-2022 14:46:05 UTC] PHP Fatal error:  Uncaught Exception: Token não valido in /home/gslottoa/public_html/api/teste.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 12
+[28-May-2022 15:32:53 UTC] PHP Warning:  include_once(../models/headers.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 2
+[28-May-2022 15:32:53 UTC] PHP Warning:  include_once(): Failed opening '../models/headers.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 2
+[28-May-2022 15:32:53 UTC] PHP Warning:  include_once(../models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 3
+[28-May-2022 15:32:53 UTC] PHP Warning:  include_once(): Failed opening '../models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 3
+[28-May-2022 18:17:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:7
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(28): getUserId('YWEyMzMwOGQtNmZ...')
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 7
+[28-May-2022 18:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:7
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(28): getUserId('YWEyMzMwOGQtNmZ...')
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 7
+[28-May-2022 18:21:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:9
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(28): getUserId('YWEyMzMwOGQtNmZ...')
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 9
+[28-May-2022 18:21:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:10
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(27): getUserId('YWEyMzMwOGQtNmZ...')
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 10
+[28-May-2022 18:23:12 UTC] PHP Warning:  include_once(../models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/functions/checkToken.php on line 2
+[28-May-2022 18:23:12 UTC] PHP Warning:  include_once(): Failed opening '../models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/functions/checkToken.php on line 2
+[28-May-2022 18:23:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:9
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(27): getUserId('YWEyMzMwOGQtNmZ...')
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 9
+[28-May-2022 18:26:12 UTC] PHP Warning:  include_once(../models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 3
+[28-May-2022 18:26:12 UTC] PHP Warning:  include_once(): Failed opening '../models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 3
+[28-May-2022 18:26:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:7
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(28): getUserId('YWEyMzMwOGQtNmZ...')
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 7
+[28-May-2022 18:26:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:7
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(28): getUserId('YWEyMzMwOGQtNmZ...')
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 7
+[28-May-2022 18:27:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:7
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(28): getUserId('YWEyMzMwOGQtNmZ...')
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 7
+[28-May-2022 18:30:18 UTC] PHP Warning:  include_once(../models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/functions/checkToken.php on line 4
+[28-May-2022 18:30:18 UTC] PHP Warning:  include_once(): Failed opening '../models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/functions/checkToken.php on line 4
+[28-May-2022 18:30:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:8
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(28): getUserId('YWEyMzMwOGQtNmZ...')
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 8
+[28-May-2022 18:33:31 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/gslottoa/public_html/api/functions/checkToken.php on line 28
+[28-May-2022 18:33:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:15
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(28): getUserId('YWEyMzMwOGQtNmZ...', Object(PDO))
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 15
+[29-May-2022 04:29:36 UTC] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/gslottoa/public_html/api/teste.php on line 14
+[29-May-2022 20:48:37 UTC] PHP Warning:  include_once(function/cashier.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 4
+[29-May-2022 20:48:37 UTC] PHP Warning:  include_once(): Failed opening 'function/cashier.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 4
+[29-May-2022 20:48:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function newBet() in /home/gslottoa/public_html/api/teste.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 6
+[29-May-2022 20:49:23 UTC] PHP Warning:  include_once(function/cashier.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 4
+[29-May-2022 20:49:23 UTC] PHP Warning:  include_once(): Failed opening 'function/cashier.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 4
+[29-May-2022 20:49:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function newBet() in /home/gslottoa/public_html/api/teste.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 6
+[29-May-2022 20:50:04 UTC] PHP Warning:  include_once(function/cashier.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 4
+[29-May-2022 20:50:04 UTC] PHP Warning:  include_once(): Failed opening 'function/cashier.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 4
+[29-May-2022 20:50:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function newBet() in /home/gslottoa/public_html/api/teste.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 6
+[29-May-2022 20:51:13 UTC] PHP Warning:  include_once(function/cashier.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 4
+[29-May-2022 20:51:13 UTC] PHP Warning:  include_once(): Failed opening 'function/cashier.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 4
+[29-May-2022 20:51:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function newBet() in /home/gslottoa/public_html/api/teste.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 6
+[29-May-2022 20:51:33 UTC] PHP Warning:  include_once(function/cashier.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 4
+[29-May-2022 20:51:33 UTC] PHP Warning:  include_once(): Failed opening 'function/cashier.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 4
+[29-May-2022 20:51:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function newBet() in /home/gslottoa/public_html/api/teste.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 6
+[29-May-2022 20:52:32 UTC] PHP Warning:  include_once(function/cashier.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/teste.php on line 4
+[29-May-2022 20:52:32 UTC] PHP Warning:  include_once(): Failed opening 'function/cashier.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/teste.php on line 4
+[29-May-2022 20:52:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function newBet() in /home/gslottoa/public_html/api/teste.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 6
+[29-May-2022 20:56:40 UTC] PHP Fatal error:  Uncaught Exception: DateInterval::__construct(): Unknown or bad format (P1D3H) in /home/gslottoa/public_html/api/teste.php:8
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(8): DateInterval->__construct('P1D3H')
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 8
+[29-May-2022 22:32:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/teste.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 9
+[29-May-2022 22:34:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/teste.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 9
+[29-May-2022 22:34:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/teste.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 16
+[29-May-2022 22:35:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/teste.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 16
+[29-May-2022 22:35:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/teste.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 16
+[30-May-2022 04:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function newBet() in /home/gslottoa/public_html/api/teste.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 9
+[30-May-2022 04:54:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function newBet() in /home/gslottoa/public_html/api/teste.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/teste.php on line 9
+[30-May-2022 04:55:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/functions/cashier.php:35
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(9): newBet(5, 6, '2022-05-30 01:5...', Object(PDO))
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/cashier.php on line 35
+[30-May-2022 04:55:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/functions/cashier.php:35
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(9): newBet(5, 6, '2022-05-30 01:5...', Object(PDO))
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/cashier.php on line 35
+[30-May-2022 05:03:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/functions/cashier.php:35
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(9): newBet(5, 6, Object(DateTime), Object(PDO))
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/cashier.php on line 35
+[30-May-2022 05:04:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/functions/cashier.php:35
+Stack trace:
+#0 /home/gslottoa/public_html/api/teste.php(9): newBet(5, 6, Object(DateTime), Object(PDO))
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/cashier.php on line 35
+[10-Jun-2022 01:22:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/models/headers.php:7) in /home/gslottoa/public_html/api/teste.php on line 9
+[10-Jun-2022 01:22:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/models/headers.php:7) in /home/gslottoa/public_html/api/teste.php on line 7
+[10-Jun-2022 01:37:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/teste.php on line 9
+[10-Jun-2022 01:40:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/teste.php on line 9
+[10-Jun-2022 01:40:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 3
+[10-Jun-2022 01:40:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 4
+[10-Jun-2022 01:40:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 5
+[10-Jun-2022 01:40:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 6
+[10-Jun-2022 01:40:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 3
+[10-Jun-2022 01:40:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 4
+[10-Jun-2022 01:40:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 5
+[10-Jun-2022 01:40:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 6
+[10-Jun-2022 01:49:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/teste.php:10) in /home/gslottoa/public_html/api/models/headers.php on line 3
+[10-Jun-2022 01:49:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/teste.php:10) in /home/gslottoa/public_html/api/models/headers.php on line 4
+[10-Jun-2022 01:49:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/teste.php:10) in /home/gslottoa/public_html/api/models/headers.php on line 5
+[10-Jun-2022 01:49:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/teste.php:10) in /home/gslottoa/public_html/api/models/headers.php on line 6
+[10-Jun-2022 01:50:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 3
+[10-Jun-2022 01:50:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 4
+[10-Jun-2022 01:50:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 5
+[10-Jun-2022 01:50:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 6
+[10-Jun-2022 01:52:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 3
+[10-Jun-2022 01:52:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 4
+[10-Jun-2022 01:52:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 5
+[10-Jun-2022 01:52:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 6
+[10-Jun-2022 01:53:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 3
+[10-Jun-2022 01:53:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 4
+[10-Jun-2022 01:53:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 5
+[10-Jun-2022 01:53:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 6
+[10-Jun-2022 01:54:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkBase.php:18) in /home/gslottoa/public_html/api/models/headers.php on line 3
+[10-Jun-2022 01:54:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkBase.php:18) in /home/gslottoa/public_html/api/models/headers.php on line 4
+[10-Jun-2022 01:54:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkBase.php:18) in /home/gslottoa/public_html/api/models/headers.php on line 5
+[10-Jun-2022 01:54:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkBase.php:18) in /home/gslottoa/public_html/api/models/headers.php on line 6
+[10-Jun-2022 01:55:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkBase.php:22) in /home/gslottoa/public_html/api/models/headers.php on line 3
+[10-Jun-2022 01:55:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkBase.php:22) in /home/gslottoa/public_html/api/models/headers.php on line 4
+[10-Jun-2022 01:55:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkBase.php:22) in /home/gslottoa/public_html/api/models/headers.php on line 5
+[10-Jun-2022 01:55:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkBase.php:22) in /home/gslottoa/public_html/api/models/headers.php on line 6

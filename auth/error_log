@@ -1,0 +1,2217 @@
+[19-May-2022 19:50:50 UTC] PHP Warning:  include_once(models/headers.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/get_user.php on line 2
+[19-May-2022 19:50:50 UTC] PHP Warning:  include_once(): Failed opening 'models/headers.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/get_user.php on line 2
+[19-May-2022 19:50:50 UTC] PHP Warning:  include_once(models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/get_user.php on line 3
+[19-May-2022 19:50:50 UTC] PHP Warning:  include_once(): Failed opening 'models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/get_user.php on line 3
+[19-May-2022 19:50:50 UTC] PHP Warning:  include_once(models/headers.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/check_auth.php on line 2
+[19-May-2022 19:50:50 UTC] PHP Warning:  include_once(): Failed opening 'models/headers.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/check_auth.php on line 2
+[19-May-2022 19:50:50 UTC] PHP Warning:  include_once(models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/check_auth.php on line 3
+[19-May-2022 19:50:50 UTC] PHP Warning:  include_once(): Failed opening 'models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/check_auth.php on line 3
+[19-May-2022 19:50:56 UTC] PHP Warning:  include_once(models/headers.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/login.php on line 2
+[19-May-2022 19:50:56 UTC] PHP Warning:  include_once(): Failed opening 'models/headers.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/login.php on line 2
+[19-May-2022 19:50:56 UTC] PHP Warning:  include_once(models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/login.php on line 3
+[19-May-2022 19:50:56 UTC] PHP Warning:  include_once(): Failed opening 'models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/login.php on line 3
+[19-May-2022 19:51:53 UTC] PHP Warning:  include_once(models/headers.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/login.php on line 2
+[19-May-2022 19:51:53 UTC] PHP Warning:  include_once(): Failed opening 'models/headers.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/login.php on line 2
+[19-May-2022 19:51:53 UTC] PHP Warning:  include_once(models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/login.php on line 3
+[19-May-2022 19:51:53 UTC] PHP Warning:  include_once(): Failed opening 'models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/login.php on line 3
+[28-May-2022 15:31:21 UTC] PHP Warning:  include_once(models/headers.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/check_auth.php on line 2
+[28-May-2022 15:31:21 UTC] PHP Warning:  include_once(): Failed opening 'models/headers.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/check_auth.php on line 2
+[28-May-2022 15:31:21 UTC] PHP Warning:  include_once(models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/check_auth.php on line 3
+[28-May-2022 15:31:21 UTC] PHP Warning:  include_once(): Failed opening 'models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/check_auth.php on line 3
+[28-May-2022 15:31:46 UTC] PHP Warning:  include_once(models/headers.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/check_auth.php on line 2
+[28-May-2022 15:31:46 UTC] PHP Warning:  include_once(): Failed opening 'models/headers.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/check_auth.php on line 2
+[28-May-2022 15:31:46 UTC] PHP Warning:  include_once(models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/check_auth.php on line 3
+[28-May-2022 15:31:46 UTC] PHP Warning:  include_once(): Failed opening 'models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/check_auth.php on line 3
+[28-May-2022 15:32:50 UTC] PHP Warning:  include_once(models/headers.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/check_auth.php on line 2
+[28-May-2022 15:32:50 UTC] PHP Warning:  include_once(): Failed opening 'models/headers.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/check_auth.php on line 2
+[28-May-2022 15:32:50 UTC] PHP Warning:  include_once(models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/check_auth.php on line 3
+[28-May-2022 15:32:50 UTC] PHP Warning:  include_once(): Failed opening 'models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/check_auth.php on line 3
+[28-May-2022 15:33:50 UTC] PHP Warning:  include_once(models/headers.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/check_auth.php on line 2
+[28-May-2022 15:33:50 UTC] PHP Warning:  include_once(): Failed opening 'models/headers.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/check_auth.php on line 2
+[28-May-2022 15:33:50 UTC] PHP Warning:  include_once(models/connection.php): failed to open stream: No such file or directory in /home/gslottoa/public_html/api/auth/check_auth.php on line 3
+[28-May-2022 15:33:50 UTC] PHP Warning:  include_once(): Failed opening 'models/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gslottoa/public_html/api/auth/check_auth.php on line 3
+[01-Jun-2022 17:45:27 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[01-Jun-2022 17:45:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[01-Jun-2022 21:14:04 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[01-Jun-2022 21:14:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[01-Jun-2022 21:15:21 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[01-Jun-2022 21:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[04-Jun-2022 04:58:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[04-Jun-2022 05:10:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[04-Jun-2022 05:11:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[04-Jun-2022 05:11:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[04-Jun-2022 05:12:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[05-Jun-2022 17:19:32 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[05-Jun-2022 17:19:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[07-Jun-2022 01:26:22 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[07-Jun-2022 01:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[07-Jun-2022 01:26:53 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[07-Jun-2022 01:26:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[07-Jun-2022 01:27:42 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[07-Jun-2022 01:27:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[07-Jun-2022 07:01:03 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[07-Jun-2022 07:01:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[07-Jun-2022 07:01:40 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[07-Jun-2022 07:01:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[07-Jun-2022 19:21:26 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[07-Jun-2022 19:21:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[07-Jun-2022 19:32:30 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[07-Jun-2022 19:32:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[07-Jun-2022 23:04:39 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[07-Jun-2022 23:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[07-Jun-2022 23:04:44 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[07-Jun-2022 23:04:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[07-Jun-2022 23:38:59 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[07-Jun-2022 23:38:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[09-Jun-2022 00:32:20 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[09-Jun-2022 00:32:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[09-Jun-2022 00:32:32 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[09-Jun-2022 00:32:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[09-Jun-2022 16:30:14 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/gslottoa/public_html/api/auth/get_user.php on line 11
+[09-Jun-2022 16:30:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/gslottoa/public_html/api/auth/get_user.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 34
+[05-Aug-2022 00:55:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:55:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[05-Aug-2022 00:55:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:55:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:55:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:55:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:55:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:56:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[05-Aug-2022 00:56:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Aug-2022 00:56:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Aug-2022 00:56:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Aug-2022 00:57:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Aug-2022 00:57:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[05-Aug-2022 00:57:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[05-Aug-2022 00:58:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Aug-2022 00:58:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Aug-2022 00:58:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Aug-2022 00:58:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Aug-2022 00:58:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Aug-2022 00:58:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Aug-2022 00:59:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:59:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:59:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:59:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:59:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:59:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:59:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:59:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 00:59:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Aug-2022 00:59:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Aug-2022 00:59:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[05-Aug-2022 01:07:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 01:14:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 01:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Aug-2022 01:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[22-Aug-2022 14:33:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[22-Aug-2022 14:33:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[22-Aug-2022 14:34:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[22-Aug-2022 14:34:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[22-Aug-2022 14:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[22-Aug-2022 14:45:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[22-Aug-2022 14:45:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[22-Aug-2022 14:45:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[03-Sep-2022 13:49:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:49:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:49:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:49:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:49:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:49:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:49:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 13:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:50:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:50:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:50:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 13:50:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:50:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:50:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:51:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:51:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 13:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:52:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:52:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 13:52:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:53:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 13:53:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:55:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 13:55:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:55:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:55:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:55:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:56:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:56:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:56:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:56:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:56:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:56:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:56:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:56:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:56:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:56:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:56:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:57:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:57:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:57:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:57:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:57:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:57:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:57:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:58:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:58:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:58:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:58:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:59:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:59:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:59:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:59:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:59:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 13:59:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:59:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:59:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:59:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:59:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:59:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:59:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 13:59:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 13:59:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 13:59:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:00:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[03-Sep-2022 14:00:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:00:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:00:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:00:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:00:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:00:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:01:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:01:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:01:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:01:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:01:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:01:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:02:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:02:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:02:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:02:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:02:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:02:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:02:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:02:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:02:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:02:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:03:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:03:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:03:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:03:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:03:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:04:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:04:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:04:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:04:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:04:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:04:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:04:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:05:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:05:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:05:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:05:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:05:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:05:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:05:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:05:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:06:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:06:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:06:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:06:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:06:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:06:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:06:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:06:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:07:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:07:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:07:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:07:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:07:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:07:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:07:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:07:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:08:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:08:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:08:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:08:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:08:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:08:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:08:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:08:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:08:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:08:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:08:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:09:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:09:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:10:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:10:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:10:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:10:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:11:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:11:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:11:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:11:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:11:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:11:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:11:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:12:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:12:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:13:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:16:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:16:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:16:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:16:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:17:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:18:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:18:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:19:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:19:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:19:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:19:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:19:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:22:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[03-Sep-2022 14:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:23:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:23:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:23:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:28:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:39:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:39:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:39:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[03-Sep-2022 14:39:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[03-Sep-2022 14:39:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:40:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:40:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:43:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:43:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:44:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:44:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:46:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:49:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:52:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[03-Sep-2022 14:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[03-Sep-2022 14:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[03-Sep-2022 14:52:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[12-Sep-2022 18:23:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[13-Sep-2022 20:53:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[13-Sep-2022 20:53:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[13-Sep-2022 20:53:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[13-Sep-2022 20:53:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[13-Sep-2022 20:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[13-Sep-2022 20:53:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[13-Sep-2022 20:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[13-Sep-2022 20:54:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[13-Sep-2022 20:54:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[13-Sep-2022 20:54:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[13-Sep-2022 20:54:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[13-Sep-2022 20:54:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[13-Sep-2022 20:58:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[13-Sep-2022 20:58:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[17-Sep-2022 03:57:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[19-Sep-2022 18:39:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[19-Sep-2022 18:39:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[19-Sep-2022 18:39:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[19-Sep-2022 18:39:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[19-Sep-2022 18:39:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[19-Sep-2022 18:39:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[19-Sep-2022 18:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[19-Sep-2022 18:40:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[19-Sep-2022 18:41:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[19-Sep-2022 18:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[19-Sep-2022 18:43:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[19-Sep-2022 18:44:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[19-Sep-2022 18:44:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[19-Sep-2022 18:45:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[19-Sep-2022 18:46:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[14-Oct-2022 08:41:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:23:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:25:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:25:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:26:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:26:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:26:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:27:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:27:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:29:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:29:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:29:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:29:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:29:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:29:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:29:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:29:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:29:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:29:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:30:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:30:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:30:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:30:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:30:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:30:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:31:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:31:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:36:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:37:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:37:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:37:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:38:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:38:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:38:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:39:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:39:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:44:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:44:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[11-Nov-2022 16:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:45:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[11-Nov-2022 16:45:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[11-Nov-2022 16:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:52:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:52:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[23-Nov-2022 13:52:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:52:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[23-Nov-2022 13:52:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[23-Nov-2022 13:53:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:54:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:55:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:55:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:55:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[23-Nov-2022 13:55:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:55:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[23-Nov-2022 13:55:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:55:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:55:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[23-Nov-2022 13:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[23-Nov-2022 13:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:56:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 13:56:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[23-Nov-2022 13:56:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:56:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:56:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:56:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:56:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:56:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:56:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:56:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:56:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:57:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:57:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:57:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:57:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 13:57:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 14:00:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 14:00:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 14:01:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 14:01:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 14:01:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 14:01:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 14:01:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 14:01:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 14:01:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 14:02:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 14:02:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 14:02:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 14:02:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 14:02:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 14:02:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[23-Nov-2022 14:02:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 14:02:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[23-Nov-2022 14:02:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 07:29:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[05-Dec-2022 07:29:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Dec-2022 07:29:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 07:30:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 07:30:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 07:30:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 07:31:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 07:32:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 07:32:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:20:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Dec-2022 12:20:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[05-Dec-2022 12:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Dec-2022 12:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[05-Dec-2022 12:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Dec-2022 12:22:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Dec-2022 12:22:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Dec-2022 12:22:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[05-Dec-2022 12:22:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Dec-2022 12:22:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Dec-2022 12:22:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[05-Dec-2022 12:22:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Dec-2022 12:23:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Dec-2022 12:23:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Dec-2022 12:24:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Dec-2022 12:24:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Dec-2022 12:24:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[05-Dec-2022 12:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:25:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Dec-2022 12:25:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:26:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:26:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:26:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:27:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[05-Dec-2022 12:28:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Dec-2022 12:28:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[05-Dec-2022 12:28:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Dec-2022 12:28:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[05-Dec-2022 12:29:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:29:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Dec-2022 12:29:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Dec-2022 12:29:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Dec-2022 12:30:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:32:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Dec-2022 12:32:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[05-Dec-2022 12:33:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:33:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[05-Dec-2022 12:33:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Dec-2022 12:34:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:34:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:34:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:35:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Dec-2022 12:35:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[05-Dec-2022 12:35:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:36:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Dec-2022 12:36:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:36:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[05-Dec-2022 12:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:38:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:38:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Dec-2022 12:38:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[05-Dec-2022 12:39:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[05-Dec-2022 12:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[05-Dec-2022 12:43:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[05-Dec-2022 12:43:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        [17-Dec-2022 15:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[17-Dec-2022 15:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[17-Dec-2022 15:31:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:32:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:38:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[17-Dec-2022 15:38:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[17-Dec-2022 15:38:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:40:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:41:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[17-Dec-2022 15:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[17-Dec-2022 15:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:44:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[17-Dec-2022 15:44:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[17-Dec-2022 15:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:44:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:44:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:45:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:48:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:48:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[17-Dec-2022 15:48:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/check_auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/check_auth.php on line 35
+[17-Dec-2022 15:49:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:49:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:51:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[17-Dec-2022 15:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/login.php on line 12
+[17-Dec-2022 15:54:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[17-Dec-2022 15:54:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[14-Jan-2023 16:02:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[14-Jan-2023 16:02:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15
+[14-Jan-2023 16:02:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[14-Jan-2023 16:03:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[14-Jan-2023 16:03:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[14-Jan-2023 16:03:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[14-Jan-2023 16:04:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[14-Jan-2023 16:04:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_login.php on line 12
+[14-Jan-2023 16:05:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/dealer_check_auth.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/dealer_check_auth.php on line 39
+[14-Jan-2023 16:05:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/auth/get_user.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/auth/get_user.php on line 15

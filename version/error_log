@@ -1,0 +1,5 @@
+[11-Nov-2022 16:36:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:9
+Stack trace:
+#0 /home/gslottoa/public_html/api/version/get_version.php(16): getUserId('Yzg2MGE3OWMtNTg...', NULL)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 9

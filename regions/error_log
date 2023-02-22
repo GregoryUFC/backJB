@@ -1,0 +1,4 @@
+[18-Jun-2022 07:24:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMessage() on null in /home/gslottoa/public_html/api/regions/get_region_id.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/regions/get_region_id.php on line 25

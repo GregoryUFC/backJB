@@ -1,0 +1,132 @@
+[03-May-2022 00:05:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 'M' in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php:8
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php on line 8
+[03-May-2022 00:05:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 'M' in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php:8
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php on line 8
+[06-May-2022 06:23:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php on line 33
+[06-May-2022 06:24:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'dealer_id' in where clause is ambiguous in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php:28
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php(28): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php on line 28
+[26-May-2022 16:32:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'M.cashier_id' in 'on clause' in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php:8
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/list_cashier_manager.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php on line 8
+[26-May-2022 18:10:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'M.cashier_id' in 'on clause' in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php:8
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/list_cashier_manager.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php on line 8
+[29-May-2022 03:39:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'M.cashier_id' in 'on clause' in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php:8
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/list_cashier_manager.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php on line 8
+[29-May-2022 03:39:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'M.cashier_id' in 'on clause' in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php:8
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/list_cashier_manager.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php on line 8
+[29-May-2022 03:41:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'M.cashier_id' in 'on clause' in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php:8
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/list_cashier_manager.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php on line 8
+[29-May-2022 03:44:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'M.cashier_id' in 'on clause' in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php:8
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/list_cashier_manager.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php on line 8
+[29-May-2022 04:06:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'M.cashier_id' in 'on clause' in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php:8
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/list_cashier_manager.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php on line 8
+[29-May-2022 04:07:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'M.cashier_id' in 'on clause' in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php:8
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/list_cashier_manager.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php on line 8
+[29-May-2022 06:30:53 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php on line 89
+[29-May-2022 07:01:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'M.cashier_id' in 'on clause' in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php:8
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/list_cashier_manager.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_manager.php on line 8
+[30-May-2022 07:06:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php on line 36
+[30-May-2022 07:07:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php on line 36
+[30-May-2022 07:07:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php on line 36
+[30-May-2022 07:08:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php on line 36
+[06-Jun-2022 06:21:08 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php on line 71
+[09-Jun-2022 22:07:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/cashier/cancel_Statement.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/cancel_Statement.php on line 33
+[09-Jun-2022 22:08:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/cashier/cancel_Statement.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gslottoa/public_html/api/cashier/cancel_Statement.php on line 33
+[10-Jun-2022 02:00:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 3
+[10-Jun-2022 02:00:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 4
+[10-Jun-2022 02:00:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 5
+[10-Jun-2022 02:00:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gslottoa/public_html/api/functions/checkToken.php:36) in /home/gslottoa/public_html/api/models/headers.php on line 6
+[05-Aug-2022 01:10:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:9
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/dealer_financial_record.php(21): getUserId('NWM5MWFjOTEtOWI...', NULL)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 9
+[03-Sep-2022 13:49:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:9
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/dealer_financial_record.php(21): getUserId('NDEzN2VjMWItMmM...', NULL)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 9
+[03-Sep-2022 13:49:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:9
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/dealer_financial_record.php(21): getUserId('NDEzN2VjMWItMmM...', NULL)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 9
+[03-Sep-2022 13:49:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:9
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/dealer_financial_record.php(21): getUserId('NDEzN2VjMWItMmM...', NULL)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 9
+[05-Dec-2022 12:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:9
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/new_statement.php(25): getUserId('YWEyMzMwOGQtNmZ...', NULL)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 9
+[05-Dec-2022 12:24:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:9
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/list_cashier_dealer.php(19): getUserId('NzQ3YTM4NWYtNmY...', NULL)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 9
+[05-Dec-2022 12:26:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gslottoa/public_html/api/functions/checkToken.php:9
+Stack trace:
+#0 /home/gslottoa/public_html/api/cashier/new_statement.php(25): getUserId('NzQ3YTM4NWYtNmY...', NULL)
+#1 {main}
+  thrown in /home/gslottoa/public_html/api/functions/checkToken.php on line 9
